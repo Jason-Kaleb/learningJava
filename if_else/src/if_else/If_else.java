@@ -18,17 +18,17 @@ public class If_else
         System.out.println("-------------Simple Calculator-------------");
         System.out.println();
         
-        System.out.println("Enter your first number: ");
+        System.out.print("Enter your first number: ");
         int firstNumber = scanner.nextInt();
         
         scanner.nextLine();
         
-        System.out.println("Enter your second number: ");
+        System.out.print("Enter your second number: ");
         int secondNumber = scanner.nextInt();
         
         scanner.nextLine();
         
-        System.out.println("Choose any arithmetic operator(+, -, /, *): ");
+        System.out.print("Choose any arithmetic operator(+, -, /, *): ");
         char operator = scanner.nextLine().charAt(0);
         
         if (operator == '+')
