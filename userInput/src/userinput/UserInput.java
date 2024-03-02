@@ -16,7 +16,7 @@ public class UserInput
 {
     public static void main(String[] args) 
     {
-        // Created our scanner obj below to get user input
+        // Created our scanner object below to get user input
         
         Scanner scanner = new Scanner(System.in);
         
@@ -34,7 +34,7 @@ public class UserInput
         System.out.println("Hey " + name + ".You are " + age + " years old.");
         System.out.println("You have won yourself a meal(" + favoriteFood + ").");
         
-        
+        scanner.close(); 
     }
     
 }

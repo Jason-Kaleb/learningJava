@@ -3,3 +3,6 @@
 /userInput/test
 *.xml
 *.ml
+/if_else/build/
+/if_else/nbproject/
+/if_else/test
