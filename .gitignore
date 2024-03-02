@@ -1,0 +1,5 @@
+/userInput/build/
+/userInput/nbproject/
+/userInput/test
+*.xml
+*.ml
