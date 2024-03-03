@@ -27,11 +27,14 @@ public class Arrays
         
         nameAge[1] = age;
 
+        //declaring and initializing a 2d array
         String[][] informationStored = {
                                             {"Name", "Age"},
                                             {nameAge[0], nameAge[1]}
                                         };
 
+        //this is how we use a for loop to loop through an array or a 2d array
+        
         for (int i = 0; i < informationStored.length; i++) 
         {
             System.out.println();
