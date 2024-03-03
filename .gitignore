@@ -25,3 +25,8 @@
 /forLoop/test
 /forLoop/*.xml
 /forLoop/*.mf
+/arrays/build/
+/arrays/nbproject/
+/arrays/test
+/arrays/*.xml
+/arrays/*.mf
