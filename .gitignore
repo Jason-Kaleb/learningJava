@@ -35,3 +35,8 @@
 /stringMethods/test
 /stringMethods/*.xml
 /stringMethods/*.mf
+/swapValues/build/
+/swapValues/nbproject/
+/swapValues/test
+/swapValues/*.xml
+/swapValues/*.mf
