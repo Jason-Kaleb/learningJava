@@ -30,3 +30,8 @@
 /arrays/test
 /arrays/*.xml
 /arrays/*.mf
+/stringMethods/build/
+/stringMethods/nbproject/
+/stringMethods/test
+/stringMethods/*.xml
+/stringMethods/*.mf
