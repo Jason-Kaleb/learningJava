@@ -40,3 +40,8 @@
 /swapValues/test
 /swapValues/*.xml
 /swapValues/*.mf
+/arrayList/build/
+/arrayList/nbproject/
+/arrayList/test
+/arrayList/*.xml
+/arrayList/*.mf
