@@ -45,3 +45,8 @@
 /arrayList/test
 /arrayList/*.xml
 /arrayList/*.mf
+/wrapperClass/build/
+/wrapperClass/nbproject/
+/wrapperClass/test
+/wrapperClass/*.xml
+/wrapperClass/*.mf
