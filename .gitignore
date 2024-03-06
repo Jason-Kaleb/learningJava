@@ -50,4 +50,9 @@
 /wrapperClass/test
 /wrapperClass/*.xml
 /wrapperClass/*.mf
+/arrayLists(_2D/build/
+/arrayLists(_2D/nbproject/
+/arrayLists(_2D/test
+/arrayLists(_2D/*.xml
+/arrayLists(_2D/*.mf
 
