@@ -1,20 +1,34 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package functionsinjava;
 
-/**
- *
- * @author kyles
- */
-public class FunctionsInJava {
+/*
+    Program: Covering functions/methods 
+    in Java
+*/
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class FunctionsInJava 
+{
+    public static void main(String[] args)
+    {
+        hello();
+        
+        System.out.println();
+        
+        int sum = add(99, 99);
+        
+        System.out.println(sum);
     }
     
+    // Below we create a method/function with no return type.
+    static void hello()
+    {
+        System.out.println("This is a function.");
+        System.out.print("When you see this message-");
+        System.out.println("It means this function has been called or invoked.");
+    }
+    
+    // Below we create a method/function with an int return type, with parameters.
+    static int add(int x, int y)
+    {
+        return (x + y);
+    }
 }
