@@ -60,3 +60,4 @@
 /forEachLoop/test
 /forEachLoop/*.xml
 /forEachLoop/*.mf
+/forEachLoop/dist/

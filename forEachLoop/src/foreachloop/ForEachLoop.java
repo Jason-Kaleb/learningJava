@@ -1,20 +1,38 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package foreachloop;
 
-/**
- *
- * @author kyles
- */
-public class ForEachLoop {
+import java.util.ArrayList;
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+/*
+    Program: Using for-each loop
+    for-each: traversing technique to iterate
+    through the elements in an array/collection
+*/
+public class ForEachLoop 
+{
+    public static void main(String[] args) 
+    {
+        /*
+            Using for-each to iterate through a 1D array
+            String[] vehicles = {"BMW", "MERCEDES", "AUDI", "VW"};
+  
+        for(String i : vehicles)
+        {
+            System.out.println(i);
+        }
+        */
+        
+        // Using for-each to iterate through an ArrayList
+        
+        ArrayList<String> vehicles = new ArrayList<String>();
+        
+        vehicles.add("VW");
+        vehicles.add("BMW");
+        vehicles.add("Audi");
+        vehicles.add("Mercedes");
+        
+        for (String i : vehicles)
+        {
+            System.out.println(i);
+        }
     }
-    
 }
