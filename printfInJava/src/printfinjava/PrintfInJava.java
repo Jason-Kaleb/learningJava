@@ -29,7 +29,6 @@ public class PrintfInJava
         
         // [[precision] -> sets number of digits of precision when outputting float-point values
         System.out.printf("%.2f\n", myDouble);
-        
     }
     
 }
