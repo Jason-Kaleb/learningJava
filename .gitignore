@@ -66,4 +66,8 @@
 /functionsInJava/test
 /functionsInJava/*.xml
 /functionsInJava/*.mf
-
+/printfInJava/build/
+/printfInJava/nbproject/
+/printfInJava/test
+/printfInJava/*.xml
+/printfInJava/*.mf
