@@ -1,20 +1,19 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package oopinjava;
 
-/**
- *
- * @author kyles
- */
-public class OopInJava {
+/*
+    Program: Going to be
+    covering classes.
+*/
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class OopInJava 
+{
+    public static void main(String[] args) 
+    {
+        Human employee = new Human("John", 22);
+        
+        System.out.println("Name: " + employee.name);
+        System.out.println("Age: "+ employee.age);
+        employee.eat();
+        employee.toilet();
     }
-    
 }
