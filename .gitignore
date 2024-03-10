@@ -71,3 +71,8 @@
 /printfInJava/test
 /printfInJava/*.xml
 /printfInJava/*.mf
+/oopInJava/build/
+/oopInJava/nbproject/
+/oopInJava/test
+/oopInJava/*.xml
+/oopInJava/*.mf
