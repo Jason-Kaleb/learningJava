@@ -1,20 +1,31 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package staticmod;
 
-/**
- *
- * @author kyles
- */
-public class StaticMod {
+/*
+    Program: Covering static modifier
+    static = modifier. A single copy of a
+    variable/method is created and shared.
+    The class "owns" the static member
+*/
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class StaticMod 
+{
+    public static void main(String[] args) 
+    {
+        pet dog = new pet("Bailey", 1, "Short small dog");
+        pet cat = new pet("Luna", 1, "Street Cat");
+        pet monkey = new pet("Killua", 2, "Capuchin");
+        
+        dog.displayPet();
+        dog.eat();
+        cat.displayPet();
+        cat.eat();
+        monkey.displayPet();
+        monkey.eat();
+        
+        // When accessing a static method/variable we use class name only and not name of class 
+        
+        System.out.println(pet.numberOfPets);
+        pet.displayNumberOfPets();
     }
     
 }
