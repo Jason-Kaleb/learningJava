@@ -76,3 +76,8 @@
 /oopInJava/test
 /oopInJava/*.xml
 /oopInJava/*.mf
+/staticMod/build/
+/staticMod/nbproject/
+/staticMod/test
+/staticMod/*.xml
+/staticMod/*.mf
