@@ -81,3 +81,8 @@
 /staticMod/test
 /staticMod/*.xml
 /staticMod/*.mf
+/Inheritance/build/
+/Inheritance/nbproject/
+/Inheritance/test
+/Inheritance/*.xml
+/Inheritance/*.mf
