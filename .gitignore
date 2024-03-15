@@ -86,3 +86,8 @@
 /Inheritance/test
 /Inheritance/*.xml
 /Inheritance/*.mf
+/MoreInheri/build/
+/MoreInheri/nbproject/
+/MoreInheri/test
+/MoreInheri/*.xml
+/MoreInheri/*.mf
