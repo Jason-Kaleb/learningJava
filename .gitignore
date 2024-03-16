@@ -96,3 +96,8 @@
 /abtractionInJava/test
 /abtractionInJava/*.xml
 /abtractionInJava/*.mf
+/encapsulationInJava/build/
+/encapsulationInJava/nbproject/
+/encapsulationInJava/test
+/encapsulationInJava/*.xml
+/encapsulationInJava/*.mf
