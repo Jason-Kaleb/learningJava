@@ -1,13 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package abtractioninjava;
 
-/**
- *
- * @author kyles
- */
-public class Vehicle {
-    
+/*
+    Below is our parent class
+    we going to abstract this class
+    because we do not want it to be 
+    instantiated.
+*/
+
+public abstract class Vehicle
+{
+    abstract void go();
+    abstract void stop();
 }
