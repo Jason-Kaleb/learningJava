@@ -91,3 +91,8 @@
 /MoreInheri/test
 /MoreInheri/*.xml
 /MoreInheri/*.mf
+/abtractionInJava/build/
+/abtractionInJava/nbproject/
+/abtractionInJava/test
+/abtractionInJava/*.xml
+/abtractionInJava/*.mf
