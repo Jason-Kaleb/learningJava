@@ -101,3 +101,8 @@
 /encapsulationInJava/test
 /encapsulationInJava/*.xml
 /encapsulationInJava/*.mf
+/interfacesInJava/build/
+/interfacesInJava/nbproject/
+/interfacesInJava/test
+/interfacesInJava/*.xml
+/interfacesInJava/*.mf
