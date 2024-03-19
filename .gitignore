@@ -106,3 +106,8 @@
 /interfacesInJava/test
 /interfacesInJava/*.xml
 /interfacesInJava/*.mf
+/polymorhInJava/build/
+/polymorhInJava/nbproject/
+/polymorhInJava/test
+/polymorhInJava/*.xml
+/polymorhInJava/*.mf
