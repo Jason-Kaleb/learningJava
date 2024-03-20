@@ -1,20 +1,16 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package morepolymorphism;
 
-/**
- *
- * @author kyles
- */
-public class MorePolymorphism {
+/*
+    dynamic polymorphism: ability of 
+    an ability of an object to take
+    many forms/shapes after compilation
+*/
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class MorePolymorphism
+{
+    public static void main(String[] args)
+    {
+        
     }
     
 }
