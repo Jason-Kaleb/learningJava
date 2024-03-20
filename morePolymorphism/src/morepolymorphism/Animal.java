@@ -1,13 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package morepolymorphism;
 
-/**
- *
- * @author kyles
- */
-public class Animal {
-    
+public class Animal 
+{
+    public void speak()
+    {
+        System.out.println("Animal speaks");
+    }
 }
