@@ -121,3 +121,8 @@
 /tryCatchInJava/test
 /tryCatchInJava/*.xml
 /tryCatchInJava/*.mf
+/filesInJava/build/
+/filesInJava/nbproject/
+/filesInJava/test
+/filesInJava/*.xml
+/filesInJava/*.mf
