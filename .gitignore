@@ -126,3 +126,8 @@
 /filesInJava/test
 /filesInJava/*.xml
 /filesInJava/*.mf
+/writingInFile/build/
+/writingInFile/nbproject/
+/writingInFile/test
+/writingInFile/*.xml
+/writingInFile/*.mf
