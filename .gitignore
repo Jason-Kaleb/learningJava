@@ -146,3 +146,8 @@
 /jLabelInJava/test
 /jLabelInJava/*.xml
 /jLabelInJava/*.mf
+/jPanelInJava/build/
+/jPanelInJava/nbproject/
+/jPanelInJava/test
+/jPanelInJava/*.xml
+/jPanelInJava/*.mf
