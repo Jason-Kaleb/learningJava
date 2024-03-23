@@ -141,4 +141,8 @@
 /jFrameInJava/test
 /jFrameInJava/*.xml
 /jFrameInJava/*.mf
-
+/jLabelInJava/build/
+/jLabelInJava/nbproject/
+/jLabelInJava/test
+/jLabelInJava/*.xml
+/jLabelInJava/*.mf
