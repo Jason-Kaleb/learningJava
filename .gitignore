@@ -151,3 +151,8 @@
 /jPanelInJava/test
 /jPanelInJava/*.xml
 /jPanelInJava/*.mf
+/jButtonInJava/build/
+/jButtonInJava/nbproject/
+/jButtonInJava/test
+/jButtonInJava/*.xml
+/jButtonInJava/*.mf
