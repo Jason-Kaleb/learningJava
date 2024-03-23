@@ -1,20 +1,42 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package readingfiles;
 
-/**
- *
- * @author kyles
- */
-public class ReadingFiles {
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+/*
+    description: FileReader, reads
+    the contents of a file as a stream
+    of characters. One by one
+    read() returns an int value which contains
+    the byte value 
+    when read() returns -1, there is no more data
+    to be read.
+*/
+
+public class ReadingFiles
+{
+    public static void main(String[] args) throws FileNotFoundException
+    {
+        try
+        {
+            FileReader reader = new FileReader("art.txt");
+            int data = reader.read();
+            
+            while (data != -1)
+            {
+                System.out.print((char)data);
+                data = reader.read();
+            }
+            reader.close();
+        }
+        catch (FileNotFoundException e)
+        {
+            e.printStackTrace();
+        }
+        catch (IOException e)
+        {
+            e.printStackTrace();
+        }
     }
-    
 }
