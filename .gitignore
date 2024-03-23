@@ -131,3 +131,8 @@
 /writingInFile/test
 /writingInFile/*.xml
 /writingInFile/*.mf
+/readingFiles/build/
+/readingFiles/nbproject/
+/readingFiles/test
+/readingFiles/*.xml
+/readingFiles/*.mf
