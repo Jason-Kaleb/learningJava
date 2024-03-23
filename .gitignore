@@ -136,3 +136,9 @@
 /readingFiles/test
 /readingFiles/*.xml
 /readingFiles/*.mf
+/jFrameInJava/build/
+/jFrameInJava/nbproject/
+/jFrameInJava/test
+/jFrameInJava/*.xml
+/jFrameInJava/*.mf
+
