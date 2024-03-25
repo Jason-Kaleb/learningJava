@@ -1,20 +1,15 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package borderlayoutinjava;
 
-/**
- *
- * @author kyles
- */
-public class BorderLayoutInJava {
+/*
+    Layout manager = Defines the natural layout for components within a container
+    3 common managers
+    BorderLayout = A BorderLayout places components in five areas: NORTH, SOUTH, WEST, EAST, CENTER
+*/
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class BorderLayoutInJava
+{
+    public static void main(String[] args)
+    {
+        
     }
-    
 }
