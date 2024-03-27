@@ -166,3 +166,8 @@
 /flowLayoutInJava/test
 /flowLayoutInJava/*.xml
 /flowLayoutInJava/*.mf
+/gridLayoutInJava/build/
+/gridLayoutInJava/nbproject/
+/gridLayoutInJava/test
+/gridLayoutInJava/*.xml
+/gridLayoutInJava/*.mf
