@@ -171,3 +171,8 @@
 /gridLayoutInJava/test
 /gridLayoutInJava/*.xml
 /gridLayoutInJava/*.mf
+/jLayeredPaneInJava/build/
+/jLayeredPaneInJava/nbproject/
+/jLayeredPaneInJava/test
+/jLayeredPaneInJava/*.xml
+/jLayeredPaneInJava/*.mf
