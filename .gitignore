@@ -161,3 +161,8 @@
 /borderLayoutInJava/test
 /borderLayoutInJava/*.xml
 /borderLayoutInJava/*.mf
+/flowLayoutInJava/build/
+/flowLayoutInJava/nbproject/
+/flowLayoutInJava/test
+/flowLayoutInJava/*.xml
+/flowLayoutInJava/*.mf
