@@ -176,3 +176,8 @@
 /jLayeredPaneInJava/test
 /jLayeredPaneInJava/*.xml
 /jLayeredPaneInJava/*.mf
+/threadsInJava/build/
+/threadsInJava/nbproject/
+/threadsInJava/test
+/threadsInJava/*.xml
+/threadsInJava/*.mf
