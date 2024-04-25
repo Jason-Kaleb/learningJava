@@ -181,3 +181,9 @@
 /threadsInJava/test
 /threadsInJava/*.xml
 /threadsInJava/*.mf
+/multiThreadsInJava/build/
+/multiThreadsInJava/nbproject/
+/multiThreadsInJava/test
+/multiThreadsInJava/*.xml
+/multiThreadsInJava/*.mf
+
