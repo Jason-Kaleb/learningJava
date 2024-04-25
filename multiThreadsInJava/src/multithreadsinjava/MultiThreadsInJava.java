@@ -1,20 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package multithreadsinjava;
 
-/**
- *
- * @author kyles
- */
-public class MultiThreadsInJava {
+/*
+    multithreading = process of executing multiple threads simultaneously
+                     Helps maximum utilization of CPU
+                     Threads are independent, they dont affect the execution of other threads
+                     An exception in one thread will not interrupt other threads
+                     useful for servicing multiple clients, multi-player games, or other mutually independent tasks
+*/
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class MultiThreadsInJava
+{
+    public static void main(String[] args)
+    {
+        
     }
-    
 }
