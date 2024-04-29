@@ -14,7 +14,7 @@ public class MultiThreadsInJava
     {
         // Two ways of creating Threads 
         // 1. Creating a subclass of Thread
-        // 2. Implement Runnable interface and pass instance an as argument to Thread
+        // 2. Implement Runnable interface and pass instance an as argument to Thread()
         
         MyThread thread1 = new MyThread();
         myRunnable runnable1 = new myRunnable();

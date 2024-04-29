@@ -187,3 +187,5 @@
 /multiThreadsInJava/*.xml
 /multiThreadsInJava/*.mf
 
+/question1/nbproject/private/
+/question1/build/
