@@ -8,6 +8,7 @@ public class Question1
 {
     public static void main(String[] args)
     {
+        String fileName = "employee.txt";
         String[] columnNames = {"Name\t", "\tSurname\t", "\tYears Worked\t", "\tSalary\t"};
         
         employee Employee1 = new employee("John", "Smith", 4, 15000);
@@ -16,8 +17,8 @@ public class Question1
         
         try
         {
-            FileWriter fileWriter = new FileWriter("employee.txt");
-            File file = new File("employee.txt");
+            FileWriter fileWriter = new FileWriter(fileName);
+            File file = new File(fileName);
 
             if (file.exists())
             {
@@ -30,7 +31,7 @@ public class Question1
             }
             else
             {
-                System.out.println("The file does not exist!");
+                System.out.println("The file (" + fileName + ") does not exist!");
             }
         }
         catch (IOException e)
