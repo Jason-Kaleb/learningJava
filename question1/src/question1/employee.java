@@ -4,7 +4,7 @@ public class employee
 {
     public String Name, Surname;
     public int yearsWorked;
-    public double Salary;
+    public int Salary;
     
     // constructor
     public employee()
@@ -12,10 +12,10 @@ public class employee
         this.Name = "";
         this.Surname = "";
         this.yearsWorked = 0;
-        this.Salary = 0.0;
+        this.Salary = 0;
     }
     
-    public employee(String Name, String Surname, int yearsWorked, double Salary)
+    public employee(String Name, String Surname, int yearsWorked, int Salary)
     {
         this.Name = Name;
         this.Surname = Surname;
