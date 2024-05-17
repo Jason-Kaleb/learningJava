@@ -1,20 +1,32 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package question2;
 
-/**
- *
- * @author kyles
- */
-public class Question2 {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+//class WorkerThread extends Thread
+//{
+//    private final Task task;
+//    
+//    public WorkerThread(Task task)
+//    {
+//        this.task = task;
+//    }
+//    
+//    @Override
+//    public void run()
+//    {
+//        System.out.println("Task Details: \n" + task);
+//    }
+//}
+
+public class Question2
+{
+   public static void main(String[] args)
+   {
+//        Task task = new Task("Working", 1234, 20000);
+//        WorkerThread workerThread = new WorkerThread(task);
+//
+//        workerThread.start();
+       System.out.println("Hello World");
+   }
 }
+
+
